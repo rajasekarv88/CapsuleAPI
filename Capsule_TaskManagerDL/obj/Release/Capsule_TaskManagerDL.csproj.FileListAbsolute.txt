@@ -1,0 +1,8 @@
+C:\Users\Admin\Downloads\Capsule-master\Capsule_TaskManagerDL\bin\Release\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Downloads\Capsule-master\Capsule_TaskManagerDL\bin\Release\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Downloads\Capsule-master\Capsule_TaskManagerDL\bin\Release\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Downloads\Capsule-master\Capsule_TaskManagerDL\bin\Release\EntityFramework.dll
+C:\Users\Admin\Downloads\Capsule-master\Capsule_TaskManagerDL\bin\Release\EntityFramework.xml
+C:\Users\Admin\Downloads\Capsule-master\Capsule_TaskManagerDL\obj\Release\Capsule_TaskManagerDL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Capsule-master\Capsule_TaskManagerDL\obj\Release\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Downloads\Capsule-master\Capsule_TaskManagerDL\obj\Release\Capsule_TaskManagerDL.pdb
